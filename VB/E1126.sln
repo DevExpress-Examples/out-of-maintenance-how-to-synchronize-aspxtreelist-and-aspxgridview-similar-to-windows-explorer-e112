@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = ".\E1126\", "E1126\", "{B16C8B3E-5CB8-4EF7-9565-DFFE9531C402}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/E1126"
+		Debug.AspNetCompiler.PhysicalPath = ".\E1126\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\E1126\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/E1126"
+		Release.AspNetCompiler.PhysicalPath = ".\E1126\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\E1126\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4613"
+	TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16C8B3E-5CB8-4EF7-9565-DFFE9531C402}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B16C8B3E-5CB8-4EF7-9565-DFFE9531C402}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
