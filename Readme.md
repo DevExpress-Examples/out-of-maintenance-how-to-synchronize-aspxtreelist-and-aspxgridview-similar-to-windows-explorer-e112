@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/E1126/Default.aspx) (VB: [Default.aspx.vb](./VB/E1126/Default.aspx.vb))
+* [Default.aspx](./CS/E1126/Default.aspx) (VB: [Default.aspx](./VB/E1126/Default.aspx))
 * [Default.aspx.cs](./CS/E1126/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E1126/Default.aspx.vb))
 <!-- default file list end -->
 # How to synchronize ASPxTreeList and ASPxGridView similar to Windows Explorer
