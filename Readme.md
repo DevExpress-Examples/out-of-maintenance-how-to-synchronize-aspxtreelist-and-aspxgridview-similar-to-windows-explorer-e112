@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/E1126/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E1126/Default.aspx.vb))
 <!-- default file list end -->
 # How to synchronize ASPxTreeList and ASPxGridView similar to Windows Explorer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1126/)**
+<!-- run online end -->
 
 
 <p>To accomplish this task, handle the client-side ASPxClientTreeList.FocusedNodeChanged event, and call the ASPxClientGridView.Refresh method. The ASPxGridView.DataBinding event is handled to assign a datasource created based on the currently focused ASPxTreeList node.</p>
